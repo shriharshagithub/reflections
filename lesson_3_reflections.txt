@@ -1,2 +1,14 @@
 
 This is my third reflection prompt 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork: Create the duplicate repository in the GitHub 
+
+Clones: Create a duplicate repository of any repository in our local machine
+
+Branch: create a branch of to push pull
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be a nightmare
